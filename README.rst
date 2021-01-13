@@ -12,9 +12,9 @@ Pulse Pal for Python 3
 .. image:: https://readthedocs.org/projects/pulse-pal/badge/?version=latest
         :target: https://pulse-pal.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
-
-
-
+        
+.. image:: https://zenodo.org/badge/302438665.svg
+   :target: https://zenodo.org/badge/latestdoi/302438665
 
 Unofficial port of Pulse Pal for Python 3
 
